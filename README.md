@@ -1,4 +1,1 @@
-qBittorent.sh
-qBt logo
-qBt box
-qBt image
+a ports folder launcher for qBittorent for Batocera
